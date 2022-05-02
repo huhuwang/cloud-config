@@ -1,4 +1,2 @@
-server:
-  port: 7001
 info:
   detail: this is sit environment
